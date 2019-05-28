@@ -8,7 +8,7 @@ A small system where you can book cars
 ## What did I learn?
 I learn to interact with a database using PHP
 to generate dynamic components, and to generate HTML
-and to do user login and user validation.
+and also to do user login and user validation.
 	
 ## How to use?
 Go into MySQL load up the database backups from the database backups folder
